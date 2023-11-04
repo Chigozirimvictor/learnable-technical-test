@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Viss Fashions</title>
+</head>
+<body>
+ <section class="body">
+
+                 <!-- THE NAV BAR -->
+
+     <div class="navbar">
+
+        <div class="viss"> <b>Viss Fashions</b></div>
+
+          <div class="nav">
+            <ul class="nav_links">
+                <li>About</li>
+                <li>Clothing</li>
+                <li>Accessories</li>
+                <li>Services</li>
+            </ul>
+         </div>
+      
+          <div class="bar">
+            <ul class="login">
+            <li>Log in</li>
+            <li>
+                <a href="./Signup.html"> <button class="sign">Sign up </button> </a></li>
+            </ul>
+            
+          </div>
+
+     </div>
+
+
+     
+      <!-- THE INNER BODY -->
+
+
+      
+    <div class="inner_body">
+
+        <div class="inner1">
+            <div class="fashion">
+                 <b>TRENDIEST FASHION EVER</b>
+            </div>
+
+            <div class="Denim">
+                When you are in doubt, where a Viss Fashions Denim
+            </div>
+
+            <div class="Buy">
+                Buy Now
+            </div>
+        </div>
+
+
+           <div class="image"> <img src="./image/testpics.png" alt="" height="80%" width="155%"></div>
+
+
+    </div>
+
+    <!-- THE END -->
+
+ </section>
+</body>
+</html>
