@@ -1,3 +1,28 @@
-@media(max-width: 500px){
-    
+@media(max-width: 600px){
+    .nav{
+        display: none;
+        overflow: hidden;
+    }
+    .nav_links{
+        display: none;
+    }
+    .nav_links>li{
+        display: none;
+    }
 }
+
+@media(max-width: 600px) {
+    .inner_body{
+        display: block;
+        width: 80%;
+    }
+    .Buy{
+         margin-bottom: 6%;
+    }
+    .inner_body>image{
+        margin-top: 45%;
+    }
+    
+
+}
+ 
