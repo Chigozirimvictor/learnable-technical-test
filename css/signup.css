@@ -126,7 +126,7 @@ a{
     padding-right: 0.5;
 }
 .image{
-    width: 1160px;
-    height: 900px;
+    width: 1160%;
+    height: 900%;
     overflow: hidden;
 }
